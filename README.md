@@ -1,8 +1,10 @@
-# AL-Coding-Challanges
-Small Coding Challanges for Business Central and AL
+# How many vowels?
+Create a function which accepts a text as a parameter and returns the number of vowels in the text.
 
-You can find each challange and my solution to it in the given branches.
+As a reminder: vowels are the characters 'a', 'e', 'i', 'o', 'u';
 
-## Currently curated challanges
-1. ["FizzBuzz"](https://github.com/lassekilperkm/AL-Coding-Challanges/tree/FizzBuzz)
-2. ["Longest Word"](https://github.com/lassekilperkm/AL-Coding-Challanges/tree/LongestWord)
+## In AL...
+Create a page with 2 fields, one for the input and one for the output of the number of vowels.
+
+## Challange yourself!
+Try to solve the challange on your own, if you struggle you can always have a look in my example solution.
