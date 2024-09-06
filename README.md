@@ -6,6 +6,7 @@ The hacker language uses numbers instead of aplha chars, for example:
 "AL is cool!" -> "4L 15 c00l"
 
 The following characters have to be changed to be representated by numbers:
+
 'a' -> '4'
 
 'e' -> '3'
