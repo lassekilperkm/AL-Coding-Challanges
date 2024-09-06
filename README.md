@@ -7,9 +7,13 @@ The hacker language uses numbers instead of aplha chars, for example:
 
 The following characters have to be changed to be representated by numbers:
 'a' -> '4'
+
 'e' -> '3'
+
 'i' -> '1'
+
 'o' -> '0'
+
 's' -> '5'
 
 ## In AL...
