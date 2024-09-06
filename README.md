@@ -12,7 +12,7 @@ Not every character of the alphabet can be rendered by such a display. Therefore
 8. 'z'
 
 You can find a collection of english words on [github](https://github.com/dwyl/english-words/blob/master/words_alpha.txt).
-For processing this list I wpuld recommend using the raw file.
+For processing this list I would recommend using the raw file.
 
 ## In AL...
 Create a new page which displays the longest word from the list, which meets the criteria (excluded characters).
