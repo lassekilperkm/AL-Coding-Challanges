@@ -13,5 +13,5 @@ Create a list page which displays each correct output ("Fizz", "Buzz", "FizzBuzz
 ## Bonus
 if you are done and happy with your result, try to add a new rule for numbers divisable by 7. Those numbers should produce the output "Fuzz" and, if possible, combinations like "FizzFuzz", "FuzzBuzz" like before.
 
-## Challange yourself!
-Try to solve the challange on your own, if you struggle you can always have a look in my example solution.
+## Challenge yourself!
+Try to solve the challenge on your own, if you struggle you can always have a look in my example solution.
