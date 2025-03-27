@@ -23,5 +23,5 @@ Create a page which has a field as input and another field as the output, which 
 ## Bonus
 Maybe there are more characters which can be replaced, use your 1m4g1n4710n!
 
-## Challange yourself!
-Try to solve the challange on your own, if you struggle you can always have a look in my example solution.
+## Challenge yourself!
+Try to solve the challenge on your own, if you struggle you can always have a look in my example solution.
