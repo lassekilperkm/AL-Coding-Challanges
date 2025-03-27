@@ -20,5 +20,5 @@ Create a new page which displays the longest word from the list, which meets the
 ## Bonus
 If you are happy with your solution, try to also exclude the characters 'i' and 'o', these could be interpreted as '1' and '0' which could cause some confusion.
 
-## Challange yourself!
-Try to solve the challange on your own, if you struggle you can always have a look in my example solution.
+## Challenge yourself!
+Try to solve the challenge on your own, if you struggle you can always have a look in my example solution.
